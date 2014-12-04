@@ -5,3 +5,5 @@ And you will also download HoloColorPicker by LarsWerkman and SwipeBackLayout by
 If any question, please email 821079007@qq.com contact to me!
 
 Thank you!
+https://github.com/LarsWerkman/HoloColorPicker
+https://github.com/Issacw0ng/SwipeBackLayout
